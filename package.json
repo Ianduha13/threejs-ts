@@ -1,0 +1,12 @@
+{
+  "name": "threejs-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "three": "^0.150.1"
+  },
+  "dependencies": {
+    "@types/three": "^0.149.0"
+  }
+}

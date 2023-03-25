@@ -7,6 +7,8 @@
     "dev": "webpack serve --config ./src/client/webpack.dev.js"
   },
   "devDependencies": {
+    "@types/dat.gui": "^0.7.9",
+    "dat.gui": "^0.7.9",
     "three": "^0.150.1",
     "ts-loader": "^9.4.2",
     "typescript": "^5.0.2",
